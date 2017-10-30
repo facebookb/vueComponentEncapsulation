@@ -1,0 +1,2 @@
+# vueComponentEncapsulation
+封装工作中常用的组件
