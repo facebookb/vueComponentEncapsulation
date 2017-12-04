@@ -33,17 +33,20 @@
         </tr>
       </table>
     </div>
+    <div><tabSwitch></tabSwitch></div>
   </div>
 </template>
 
 <script>
 import VSelection from '../components/base/selection'
 import VDatePicker from '../components/base/datepicker'
+import tabSwitch from '../components/base/tabSwitch'
 import _ from 'lodash'
 export default {
   components: {
     VSelection,
-    VDatePicker
+    VDatePicker,
+    tabSwitch
   },
   data () {
     return {

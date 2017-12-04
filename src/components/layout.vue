@@ -30,7 +30,7 @@
           </ul>
         </div>
       </div>
-      <child message="hello!"></child>
+      <!--<child message="hello!"></child>-->
     </div>
     <div class="container">
       <!--vue中的组件缓存-->
